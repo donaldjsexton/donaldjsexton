@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Donald Sexton
+# 👋 Hi, I'm Donald — I build systems that work as beautifully as they look.  
 
 I’m an aspiring **Software Engineer** with a background in **web development, automation, and creative design**. Currently pursuing my **B.S. in Computer Science at WGU**, I focus on building projects that strengthen my skills in **JavaScript, React, and Python**.
 
@@ -12,22 +12,22 @@ I’m an aspiring **Software Engineer** with a background in **web development, 
 - **Other:** Git/GitHub, Nginx, Docker (beginner)  
 
 ---
-
 ## 📌 Pinned Projects
+
+🔹 [**Photo Gallery**](https://github.com/donaldjsexton/photo-gallery)  
+_A dependency-free image server written in **vanilla Node.js** — no Express, just file streams and pure HTTP._
+
 🔹 [**Chat App**](https://github.com/donaldjsexton/chat-app)  
-_Telegram-style chat app built with Next.js, Socket.IO, and MariaDB._
+_Telegram-style real-time chat built with **Next.js**, **Socket.IO**, and **MariaDB**._
 
-🔹 [**To-Do App**](https://github.com/donaldjsexton/todo)  
-_A React to-do list with state management and component structure._
+🔹 [**CRM**](https://github.com/donaldjsexton/CRM)  
+_A **Django/FastAPI** prototype CRM for event management — focuses on automation, data integrity, and modular backend design._
 
-🔹 [**Palindrome Checker**](https://github.com/donaldjsexton/palindrome-checker)  
-_JavaScript fundamentals project — string manipulation and DOM handling._
+🔹 [**HTTP Servers**](https://github.com/donaldjsexton/http-servers)  
+_A series of **bare-bones servers** written in Python to explore sockets, request parsing, and response handling from first principles._
 
-🔹 [**Table of Factorials**](https://table-of-factorials.vercel.app)  
-_Small app showing logic-heavy math operations rendered dynamically._
-
-🔹 [**Digital Clock**](https://digital-clock-nine-cyan.vercel.app)  
-_UI-focused project manipulating the DOM in real-time._
+🔹 [**Bayes**](https://github.com/donaldjsexton/Bayes)  
+_An experimental **Python** notebook exploring Bayesian inference and probability logic — part of an ongoing dive into applied mathematics._
 
 ---
 
@@ -35,6 +35,7 @@ _UI-focused project manipulating the DOM in real-time._
 - **Selenium & WebdriverIO** for automated testing  
 - **React best practices** (hooks, context, state management)  
 - **Agile methodologies & CI/CD basics**  
+- **🧠 Exploring: FAANG-level systems design, distributed architecture, and async optimization.
 
 ---
 
@@ -45,7 +46,15 @@ _UI-focused project manipulating the DOM in real-time._
 
 ---
 
-## The Manifesto of a Builder Who Thinks in Code
+**Highlights**
+- Built a real-time chat app using Next.js, Socket.IO, and PostgreSQL  
+- Developing a CRM in Django/FastAPI for event management automation  
+- Comfortable across Linux, Nginx, Docker, Cloudflare, and Git workflows  
+- Pursuing B.S. in Computer Science at WGU
+
+---
+
+## The Manifesto
 
 I didn’t come up through a bootcamp. I didn’t clock years in a cubicle.
 I built things until they stopped breaking — and that’s how I learned what they were made of.
